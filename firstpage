@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title></title>
+</head>
+<body>
+<h1>This is the Main Heading</h1>
+<p>This text might be an <b>introduction</b> to the rest of the page.<br /> And if the page is a long one it might be split up into several sub-headings.</p>
+<hr />
+<h2><i>This is a Sub-Heading</i></h2>
+<p>Many long articles have sub-headings so to help you follow the structure of what is being written.<br />There may even be sub-headings (or lower-level headings). </p>
+<hr />
+<h2>Another Sub-Heading</h2>
+<p>Here you can see another sub-heading</p>
+<hr />
+<p>H<sub>2</sub>O</p>
+<p>E=MC<sup>2</sup></p>
+</body>
+</html>
